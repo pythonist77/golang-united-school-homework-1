@@ -5,6 +5,7 @@ on:
       - v*
     branches:
       - master
+      - lecture-00-solution
   pull_request:
 permissions:
   contents: read
